@@ -13,7 +13,6 @@ void main()
     }
     else if((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
     {
-        /* Condition for consonant */
         printf(" %c is Consonant.", ch);
     }
     else 
